@@ -3,11 +3,14 @@
   background: none;
 }
 
+.carousel-item {
+ height: 330px;
+}
 .sectionLight{
   background-color: #eceeef;
   padding: 2em/
 }
-
-.carousel-item {
- height: 330px;
+.sectionDark{
+  background-color: #CCCCCC;
+  padding: 2rem;
 }
