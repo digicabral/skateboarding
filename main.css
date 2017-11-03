@@ -5,6 +5,7 @@
 
 .carousel-item {
  height: 330px;
+ padding-bottom: 20px;
 }
 .sectionLight{
   background-color: #eceeef;
@@ -13,4 +14,13 @@
 .sectionDark{
   background-color: #CCCCCC;
   padding: 2rem;
+}
+.coolStuffWrapper{
+  margin-top: 20px;
+}
+button.coolStuffBtn{
+  background-color: red;
+  color: #ffffff;
+  display: block;
+  margin: auto;
 }
